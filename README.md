@@ -18,7 +18,7 @@ Forkify is my educational JavaScript project that allows users to search for and
 
 ## Demo
 
-Check out the live demo of the project [here](forkify-educational-project.netlify.app/).
+Check out the live demo of the project <a href="forkify-educational-project.netlify.app/">[here]</a>.
 
 ## Usage
 
